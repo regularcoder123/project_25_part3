@@ -1,0 +1,110 @@
+h1{
+    text-align: center;
+
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: darkgrey;
+    padding: 0px;
+    border-radius: 30px;
+    
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    display: block;
+    text-align: center;
+}
+
+.navbar a:hover{
+    background-color: rgb(0, 0, 0);
+    border-radius: 30px;
+}
+body{
+    background-color: bisque;
+}
+#quote{
+    font-style: italic;
+    font-size: 45px;
+    font-weight: bold;
+    background-color: #F4A460;
+    border-radius: 30px;
+}
+
+#about-discript{
+    font-size: 30px;
+}
+#about-us{
+    background-color: #CD853F;
+    border-radius: 20px;
+    padding: 20px
+}
+#burger{
+    font-size: 30px;
+    font-weight: bold;
+}
+#burger-img{
+    float: right;
+    width: 450px;
+    border-radius: 30px;
+}
+#burger-disc{
+    font-size: 30px;
+    padding: 30px;
+    font-style: oblique;
+}
+#burger-head{
+    font-size: 30px;
+    font-weight: bold;
+}
+#curry-head{
+    font-size: 30px;
+    font-weight: bold;
+    padding-left: 1300px;
+}
+#curry-disc{
+    font-size: 30px;
+    font-style: oblique;
+    padding: 30px;
+    
+    
+}
+#curry-img{
+    float: left;
+    width: 250px;
+    border-radius: 40px;
+    padding-right: 30px;
+}
+#butter-head{
+    font-size: 30px;
+    font-weight: bold;
+}
+#butter-img{
+    float: right;
+    width: 450px;
+    border-radius: 30px;
+}
+#butter-disc{
+    font-size: 30px;
+    padding: 30px;
+    font-style: oblique;
+}
+#food-disc{
+    font-size: 20px;
+}
+#FAQ-container{
+    text-align: center;
+    font-size: 20px;
+}
+
+#footer{
+    background-color: #CD853F;
+    border-radius: 30px;
+}
+h3{
+    font-size: 25px;
+}
+iframe{
+    border-radius: 10px;
+}
